@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>NorthBlu_SharedStew_ActiveMng_Map2_52020</name>
+<guid>8AFBF79C-8F99-4CEC-8E5F-A9306F52FC43</guid>
+<catalogpath></catalogpath>
+<snippet>Map Package for Map2 for CFLRP</snippet>
+<description>Map Package for Map2 for CFLRP</description>
+<summary>Map Package for Map2 for CFLRP</summary>
+<title>NorthBlu_SharedStew_ActiveMng_Map2_52020</title>
+<tags>Wallowa Whitman NF, CFLRP</tags>
+<type>Map Package</type>
+<typekeywords>
+<typekeyword>File Geodatabase Feature Class</typekeyword>
+<typekeyword>SDE Feature Class</typekeyword>
+<typekeyword>Shapefile Feature Class</typekeyword>
+<typekeyword>Personal Geodatabase Feature Class</typekeyword>
+<typekeyword>Map Package</typekeyword>
+<typekeyword>Map</typekeyword>
+<typekeyword>2D</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>mpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-180</xmin>
+<ymin>-89.9704276991238</ymin>
+<xmax>180</xmax>
+<ymax>90</ymax>
+</extent>
+<spatialreference>NAD_1983_USFS_R6_Albers</spatialreference>
+<accessinformation></accessinformation>
+<licenseinfo></licenseinfo>
+</ESRI_ItemInformation>

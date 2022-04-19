@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='en-US'>
+<ID>8AFBF79C-8F99-4CEC-8E5F-A9306F52FC43</ID>
+<name>NorthBlu_SharedStew_ActiveMng_Map2_52020</name>
+<version>10.7</version>
+<size>-1</size>
+<created></created>
+<type>Map Package</type>
+<servable>false</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>mxd</documenttype>
+</documenttypes>
+</pkinfo>
